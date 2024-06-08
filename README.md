@@ -1,3 +1,8 @@
+![image](https://github.com/riskalaluna/praktikum/assets/127090285/a9a0acc1-11ac-4572-a83b-24d2c6703a53)
+![Screenshot (594)](https://github.com/riskalaluna/praktikum/assets/127090285/10bf728f-34ef-48cd-9092-7a707e76ea95)
+![Screenshot (595)](https://github.com/riskalaluna/praktikum/assets/127090285/7d34ad51-0186-49d2-a6ff-1ddd47951850)
+![Screenshot (596)](https://github.com/riskalaluna/praktikum/assets/127090285/761486fd-3676-4d0d-b85d-7eacf26f5d83)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,10 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![image](https://github.com/riskalaluna/praktikum/assets/127090285/a9a0acc1-11ac-4572-a83b-24d2c6703a53)
-![Screenshot (594)](https://github.com/riskalaluna/praktikum/assets/127090285/10bf728f-34ef-48cd-9092-7a707e76ea95)
-![Screenshot (595)](https://github.com/riskalaluna/praktikum/assets/127090285/7d34ad51-0186-49d2-a6ff-1ddd47951850)
-![Screenshot (596)](https://github.com/riskalaluna/praktikum/assets/127090285/761486fd-3676-4d0d-b85d-7eacf26f5d83)
+
 
 
 
